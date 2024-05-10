@@ -1,0 +1,10 @@
+Steps:
+1)node_modules folder have been deleted to install in write command npm-i
+2)to start app write command npm start
+
+
+Note:
+1)UseParams hook has been used to send data from one component to another component
+2)UseState hook has been used to update data and store it
+3)UseNavigate hook is used to redirect user to urls
+4)questions.js under API folder contains our questions and answers data which we are using as a dummy api
